@@ -1,12 +1,11 @@
 ## Andrew Van Duser
 
-I build websites and brands for people who'd rather be doing the thing they
-actually like doing.
+I build websites and brands for people who'd rather be doing the things they
+actually enjoy.
 
-Most of my work ships through [webthings](https://dowebthings.com) — a family-run
-web design and branding studio. Small businesses, non-profits, churches, and the
-occasional internal tool. Mostly Astro on the front, Laravel behind it when there's
-something to administer.
+Most of my work ships through [Web Things](https://dowebthings.com) — a family-run
+web studio. I usually work small - small businesses, non-profits, churches - and like to build helpful tools and apps to make work and life more delightful.
+Mostly Astro on the front, Laravel behind it when there's something to administer.
 
 ### Selected work
 
