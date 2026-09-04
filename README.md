@@ -3,9 +3,9 @@
 I build websites and brands for people who'd rather be doing the things they
 actually enjoy.
 
-Most of my work ships through [Web Things](https://dowebthings.com) — a family-run
-web studio. I usually work small - small businesses, non-profits, churches - and like to build helpful tools and apps to make work and life more delightful.
-Mostly Astro on the front, Laravel behind it when there's something to administer.
+Most of my work ships through [Web Things](https://dowebthings.com), a family-run
+web studio. I like to work small - small businesses, non-profits, churches — and enjoy building helpful tools and apps to make work and life more delightful.
+Working in mostly Astro on the front, Laravel behind it when there's more moving parts.
 
 ### Selected work
 
